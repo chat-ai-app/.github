@@ -1,4 +1,12 @@
-## Chat.ai
+## Chat.ai is an application from Vital.ai
+
+### Learn more about Vital.ai at the website:
+
+[https://www.vital.ai](https://www.vial.ai)
+
+### or in our GitHub Repositories:
+
+[https://github.com/vital-ai](https://github.com/vital-ai)
 
 <!--
 
